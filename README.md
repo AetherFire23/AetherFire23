@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there, I'm Mr. Jingy Bingy👋
+I love adventures
+# viva québec
 
 <!--
 **AetherFire23/AetherFire23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
