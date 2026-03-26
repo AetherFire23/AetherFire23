@@ -8,6 +8,6 @@ Softwares enable creativity like nothing else can. They're fascinating for this 
 
 Northwest is a game created on the technologies of the web (React and ASP.NET). I decided to use these odd technologies (for a game) because all the interactions in occur in the UI, whereas game engines are more well-suited for graphics rendering and audio processing. We have to see this a digital board-game. 
 
-For the game's pitch (it's pretty good)
 
-[Follow the link](https://github.com/AetherFire23/NorthwestV2-server.git)
+
+[Follow the link](https://github.com/AetherFire23/NorthwestV2-server.git) For the game's pitch (it's pretty good)
