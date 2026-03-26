@@ -2,7 +2,7 @@
 
 ## Why i'm here
 
-Softwares enable creativity like nothing else can. They're fascinating for this good reason : they make everything we do easier; and almost anything we imagine - possible to represent. I consider myself fortunate to live in a period of human existence where I get to be a part of this adventure (until AI takes our jobs).
+Softwares enable creativity like nothing else can. They're fascinating for this good reason : they make everything we do easier; and almost anything we imagine - possible to represent.
 
 ## Northwest
 
