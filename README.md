@@ -2,7 +2,7 @@
 
 ## Why i'm here
 
-Softwares enable creativity like nothing else can. They're fascinating for this good reason : they make everything we do easier; and almost anything we imagine - possible to represent.
+Softwares are fun, they enable creativity and make everything we do easier; and almost anything we imagine - possible to represent.
 
 ## Northwest
 
