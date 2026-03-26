@@ -2,7 +2,7 @@
 
 ## Why i'm here
 
-Coding enables creativity like nothing else can. Computers in general have always had the ability to captivate for a good reason : they make everything we do easier; and almost anything we imagine possible to project. I consider myself fortunate to live in a period of human existence where I get to be a part of this adventure (until AI takes our jobs).
+Coding enables creativity like nothing else can. Computers in general have always had the ability to captivate for a good reason : they make everything we do easier; and almost anything we imagine possible to represent. I consider myself fortunate to live in a period of human existence where I get to be a part of this adventure (until AI takes our jobs).
 
 ## Northwest
 
