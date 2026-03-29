@@ -2,11 +2,11 @@
 
 ## Why i'm here
 
-Softwares are fun, they enable creativity and make everything we do easier; and almost anything imaginable can be recreated digitally. 
+Doing software is fun
 
 ## Northwest
 
-Northwest is a game created on the technologies of the web (React and ASP.NET). I decided to use these odd technologies (for a game) because all the interactions in occur in the UI, and React is built for that use-case, whereas game engines are more well-suited for graphics rendering and audio processing, and they're not crucial for the game. We have to see this a digital board-game. It doesn't matter if the game comes with an ambient-music soundtrack and costumes; if board's brittle and the cards cheap, it doesn't work. 
+Northwest is a game created using typical web technologies. (React and ASP.NET). I decided to use these odd technologies (for a game) because all the interactions occur in the UI. React is built for this use-case, whereas game engines suit graphics rendering and audio processing better, however these elements are not crucial for the game. We have to see this project as a digital board-game. It doesn't matter if the game comes with an impressive ambient soundtrack and colourful costumes; if the board's brittle and the cards cheap, it's just no fun.
 
 For the game's pitch (it's pretty good)
 
