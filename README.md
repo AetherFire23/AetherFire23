@@ -1,8 +1,4 @@
-# F3ds readme
-
-## Why i'm here
-
-Doing software is fun
+# Mon readme
 
 ## Northwest
 
