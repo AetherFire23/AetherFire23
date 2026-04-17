@@ -1,6 +1,14 @@
 # -
 
-## Northwest
+##     __                                                  
+   /  -,               ,  ,,                         ,  
+  ||   )              ||  ||    ;                   ||  
+ ~||---)  /'\\ ,._-_ =||= ||/\\ \\/\/\  _-_   _-_, =||= 
+ ~||---, || ||  ||    ||  || || || | | || \\ ||_.   ||  
+ ~||  /  || ||  ||    ||  || || || | | ||/    ~ ||  ||  
+  |, /   \\,/   \\,   \\, \\ |/ \\/\\/ \\,/  ,-_-   \\, 
+-_-  --~                    _/                          
+                                                        
 
 The year is 1850. The British Empire sends its finest expeditions into the Arctic in search of the Northwest Passage. You are among the sailors of the Royal Navy — disciplined, weary, bound to duty. You will endure cold that bites like iron, nights without end, and seas where silence breathes. To survive, you must cling to each other. 
 
