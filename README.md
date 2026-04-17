@@ -1,13 +1,12 @@
 ```
-    __                                                  
-   /  -,               ,  ,,                         ,  
-  ||   )              ||  ||    ;                   ||  
- ~||---)  /'\\ ,._-_ =||= ||/\\ \\/\/\  _-_   _-_, =||= 
- ~||---, || ||  ||    ||  || || || | | || \\ ||_.   ||  
- ~||  /  || ||  ||    ||  || || || | | ||/    ~ ||  ||  
-  |, /   \\,/   \\,   \\, \\ |/ \\/\\/ \\,/  ,-_-   \\, 
--_-  --~                    _/                          
-                                                        
+ _   _            _   _                      _   
+| \ | |          | | | |                    | |  
+|  \| | ___  _ __| |_| |____      _____  ___| |_ 
+| . ` |/ _ \| '__| __| '_ \ \ /\ / / _ \/ __| __|
+| |\  | (_) | |  | |_| | | \ V  V /  __/\__ \ |_ 
+\_| \_/\___/|_|   \__|_| |_|\_/\_/ \___||___/\__|
+                                                 
+                                                                                               
 ```                                                        
 
 The year is 1850. The British Empire sends its finest expeditions into the Arctic in search of the Northwest Passage. You are among the sailors of the Royal Navy — disciplined, weary, bound to duty. You will endure cold that bites like iron, nights without end, and seas where silence breathes. To survive, you must cling to each other. 
